@@ -1,12 +1,53 @@
-import {test} from "./controller";
+
+import {toDoArray} from "./model";
+import {getToDo} from "./view";
 
 
 
 
-test();
 
 
 
+getToDo();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+  
+  
+ 
+
+
+
+ 
+
+  
+  
+
+
+
+  
 
 
 

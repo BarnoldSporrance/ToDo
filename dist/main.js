@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("controller is here")})();
+(()=>{"use strict";const e=[];document.getElementById("addToDoButton").addEventListener("click",(function(){const t={titleVal:document.getElementById("title").value,descriptionVal:document.getElementById("description").value,dueDateVal:document.getElementById("dueDate").value,priorityVal:document.getElementById("priority").value};return e.push(t),console.log(e),{toDoArray:e}}))})();
