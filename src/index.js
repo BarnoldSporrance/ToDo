@@ -1,6 +1,7 @@
 
 import {toDoArray} from "./model";
-import {getToDo} from "./view";
+import {displayToDos, getToDo} from "./view";
+import './style.css';
 
 
 
@@ -8,7 +9,10 @@ import {getToDo} from "./view";
 
 
 
-getToDo();
+getToDo(toDoArray);
+
+
+
 
 
 

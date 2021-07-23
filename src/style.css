@@ -1,0 +1,15 @@
+.toDoCard {
+    border: 1px black solid;
+    color: blue;
+    margin: 1vh;
+}
+
+.toDoWrapper{
+    border: crimson 1px solid;
+    height: 10vh;
+    width: 20vw;
+}
+
+.toDoField{
+    border: pink 1px solid;
+}
